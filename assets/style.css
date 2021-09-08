@@ -1,0 +1,30 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: cadetblue;
+    
+    
+    
+
+}
+
+.questionbox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    background-color:burlywood;
+    height: 600px;
+    width: 600px;
+    opacity:10%;
+    
+    
+
+}
+
+.button{
+    display:grid;
+    height: 50px;
+    width: 50px;
+}
+
